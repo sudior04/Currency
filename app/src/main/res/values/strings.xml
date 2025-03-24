@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency1</string>
+    <string-array name="currencies1">
+        <item>United States - Dollar</item>
+        <item>Vietnam - Dong</item>
+        <item>Euro</item>
+        <item>Japanese - Yen</item>
+        <item>Korean - Won</item>
+    </string-array>
+    <string-array name="currencies2">
+        <item>USD</item>
+        <item>VND</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>KRW</item>
+    </string-array>
+</resources>
